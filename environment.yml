@@ -1,0 +1,8 @@
+name: data-engineering
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.8
+  - pandas
+  - sqlalchemy
